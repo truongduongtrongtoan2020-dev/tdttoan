@@ -127,7 +127,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="btn_gennerate_keys">
+   <widget class="QPushButton" name="btn_gen_keys">
     <property name="geometry">
      <rect>
       <x>474</x>

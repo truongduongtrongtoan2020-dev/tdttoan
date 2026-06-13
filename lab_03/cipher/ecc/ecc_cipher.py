@@ -35,3 +35,4 @@ class ECCCipher:
             return vk.verify(signature, message.encode('ascii'))
         except ecdsa.BadSignatureError:
             return False
+        
